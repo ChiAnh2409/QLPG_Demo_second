@@ -1,0 +1,32 @@
+-- Tạo bảng Gói Tập
+CREATE TABLE GoiTap (
+    id_GT INT PRIMARY KEY IDENTITY NOT NULL,
+    TenGoiTap NVARCHAR(255) NOT NULL,
+    ThoiGianHieuLuc DATE NOT NULL,
+    ChiPhi MONEY NOT NULL
+);
+
+-- Tạo bảng Hội Viên
+CREATE TABLE HoiVien (
+    id_HV INT PRIMARY KEY IDENTITY NOT NULL,
+cccd char(20),
+email varchar(255),
+    TinhTrang bit,
+	NgayGiaNhap datetime,
+    id_GT INT FOREIGN KEY REFERENCES GoiTap(id_GT), -- Tham chiếu tới bảng Gói Tập
+    id_TV INT foreign key(id_TV) references dbo.ThanhVien(id_TV) -- Tham chiếu tới bảng thành viên
+);
+
+-- Tạo Trigger để tự động cập nhật Ngày Bắt Đầu và Ngày Kết Thúc của Hội Viên khi Gói Tập thay đổi
+CREATE TRIGGER UpdateHoiVienDates
+ON GoiTap
+AFTER UPDATE
+AS
+BEGIN
+    UPDATE HoiVien
+    SET NgayBatDau = i.ThoiGianHieuLuc,
+        NgayKetThuc = DATEADD(DAY, DATEDIFF(DAY, d.ThoiGianHieuLuc, i.ThoiGianHieuLuc), NgayKetThuc)
+    FROM HoiVien h
+    JOIN inserted i ON h.id_GT = i.id_GT
+    JOIN deleted d ON h.id_GT = d.id_GT
+END;

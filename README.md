@@ -10,6 +10,7 @@ Use C# ASP.NET, SQL server.
  - Quản lý gói tập: gói tập (chi phí, thời gian hiệu lực).
  - Quản lý đăng ký gói tập: biết được hội viên A đã đăng ký được bao nhiêu gói tập và có thể dựa vào đó để tính thống kê doanh thu.
  - Quản lý người dùng bao gồm: thông tin của người dùng cơ bảng (admin có thể phân quyền đăng nhập)
+ - Quản lý lịch trình: điểm danh sẽ lưu lại thông tin ngày giờ mà hội viên đến phòng tập.
  - Thống kê doanh thu: vẫn chưa hoàn thiện xong chức năng. (tình trạng)
 
 Giao diện trang chủ ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/f173eeff-284f-4727-8543-d63d6874fedc)

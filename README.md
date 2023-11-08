@@ -19,6 +19,7 @@ Giao diện thông tin giai đoạn thành lập ![image](https://github.com/Chi
 Giao diện thông tin Staff ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/8acb5e8e-7b17-4e00-9813-dd609c4bae43)
 Giao diện đăng ký tập thử ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/1fa3f656-d844-448d-a085-b40ae1409e00)
 Hiển thị thông báo đăng ký thành công: ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/6fa20a06-e6a6-4b1a-bfd9-40b731206914)
+
 Giao diện khuyến mãi ưu đãi đặc biệt ![image](https://github.com/ChiAnh2409/QLPG_Demo_second/assets/118975118/8c6463ef-4f03-49ba-9edf-fadf221450e3)
 Giao diện thông tin bổ ích ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/cca3ca4d-612b-42ba-a9af-1d08306714dc)
 Click vào để xem chi tiết ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/ae89541a-5dca-4909-bea7-b1e210357968)

@@ -13,28 +13,31 @@ Use C# ASP.NET, SQL server.
  - Thống kê doanh thu: vẫn chưa hoàn thiện xong chức năng. (tình trạng)
 
 Giao diện trang chủ ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/f173eeff-284f-4727-8543-d63d6874fedc)
-Giao diện các phần tập ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/1f36354b-d04f-4c69-a1f9-d180d345b2aa)
+Giao diện các phần tập ![image](https://github.com/ChiAnh2409/QLPG_Demo_second/assets/118975118/de394481-8dcc-4a26-bc6e-65f3901ba47b)
 Giao diện các thiết bị tại phòng Gym ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/ff3c5560-5860-4b36-9114-07acbed6d228)
 Giao diện thông tin giai đoạn thành lập ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/534e888a-7a6a-48ab-b000-24e9df4287d2)
 Giao diện thông tin Staff ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/8acb5e8e-7b17-4e00-9813-dd609c4bae43)
 Giao diện đăng ký tập thử ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/1fa3f656-d844-448d-a085-b40ae1409e00)
 Hiển thị thông báo đăng ký thành công: ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/6fa20a06-e6a6-4b1a-bfd9-40b731206914)
-Giao diện các phần tập ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/96524d5a-eb74-4057-b799-e4ca5472237f)
+Giao diện khuyến mãi ưu đãi đặc biệt ![image](https://github.com/ChiAnh2409/QLPG_Demo_second/assets/118975118/8c6463ef-4f03-49ba-9edf-fadf221450e3)
 Giao diện thông tin bổ ích ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/cca3ca4d-612b-42ba-a9af-1d08306714dc)
 Click vào để xem chi tiết ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/ae89541a-5dca-4909-bea7-b1e210357968)
 
 Chi tiết Treadmill Exercise bao gồm: 
- - Thực đơn ăn uống phù hợp và lợi ích của Treadmill Exercise  ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/5827282f-4475-4185-a896-bab9ea5e8e65)
-  ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/6635efc4-b47c-4a81-a495-14bf3a997ee4)
+ - Thực đơn ăn uống phù hợp và lợi ích của Treadmill Exercise  ![image](https://github.com/ChiAnh2409/QLPG_Demo_second/assets/118975118/dadb3dc8-9286-41d0-be0a-4be018193390)
+ ![image](https://github.com/ChiAnh2409/QLPG_Demo_second/assets/118975118/0c7aeb57-0535-4785-bd0a-1492ef25742c)
+
 Giao diện login 
 ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/5d47ceaa-959b-4c3e-8420-466691089a8b)
 
-Giao diện trang quản lý ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/f57f30de-7062-44bb-8936-91a791eb9133)
-Giao diện trang quản lý gói tập ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/db7dbb60-555a-4351-9487-6f1526799b23)
-Giao diện trang Đăng Ký Gói Tập ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/bccd2739-288e-4229-8e1c-7767b9405415)
-Giao diện trang quản lý Thành Viên ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/6a5cee4f-fda8-45be-aec3-c538cb919c3d)
-Giao diện trang quản lý Hội Viên ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/e14402d0-f230-417d-aa7f-1f169ebc9d13)
-Giao diện trang quản lý Người Dùng ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/221e3d22-67c7-4418-811c-5262e82eb404)
+Giao diện trang quản lý ![image](https://github.com/ChiAnh2409/QLPG_Demo_second/assets/118975118/37b7a3f1-9a6b-4f8c-8123-7c089fbc250a)
+Giao diện trang quản lý gói tập ![image](https://github.com/ChiAnh2409/QLPG_Demo_second/assets/118975118/f7e81d1c-1aee-4ec9-9a43-5467a463c31f)
+Giao diện trang Đăng Ký Gói Tập ![image](https://github.com/ChiAnh2409/QLPG_Demo_second/assets/118975118/8063f893-3d77-4f51-a3a4-80fb829636ba)
+Giao diện trang quản lý Thành Viên ![image](https://github.com/ChiAnh2409/QLPG_Demo_second/assets/118975118/a3155311-d8d4-4866-a1ae-27d47654ff2d)
+Giao diện trang quản lý Hội Viên ![image](https://github.com/ChiAnh2409/QLPG_Demo_second/assets/118975118/452b0f5d-fc31-4bdf-82ad-f70e364d1063)
+Giao diện điểm danh của hội viên ![image](https://github.com/ChiAnh2409/QLPG_Demo_second/assets/118975118/0734c8c3-93ac-4b4f-bb33-0284d4dedad7)
+Giao diện trang quản lý Người Dùng ![image](https://github.com/ChiAnh2409/QLPG_Demo_second/assets/118975118/8ee2257e-ba4a-4fb2-ba89-5459ed1e55c2)
+
 
 
 
